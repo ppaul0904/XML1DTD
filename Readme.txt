@@ -1,0 +1,1 @@
+README - Este proyecto contiene tres ejercicios XML con sus respectivas DTD: una biblioteca de libros con DTD interna, una lista de jugadores de baloncesto con DTD externa, y una agenda personal con DTD externa, todos válidos y listos para su validación online.

@@ -1,0 +1,50 @@
+
+<!--
+Nombre: [Paul Andres Peley El Kadi]
+Curso: [Asir1]
+Fecha: [04/03/2025]
+Ejercicio: [Baloncesto]
+-->
+
+
+<!DOCTYPE jugadores SYSTEM "jugadores.dtd">
+<jugadores>
+    <jugador>
+        <nombre>Luka</nombre>
+        <apellidos>Dončić</apellidos>
+        <equipo>
+            <ciudad>Dallas</ciudad>
+            <presidente>
+                <nombrePresidente>Mark</nombrePresidente>
+                <apellidosPresidente>Cuban</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>25</edad>
+    </jugador>
+
+    <jugador>
+        <nombre>Stephen</nombre>
+        <apellidos>Curry</apellidos>
+        <equipo>
+            <ciudad>San Francisco</ciudad>
+            <presidente>
+                <nombrePresidente>Joe</nombrePresidente>
+                <apellidosPresidente>Lacob</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>36</edad>
+    </jugador>
+
+    <jugador>
+        <nombre>Giannis</nombre>
+        <apellidos>Antetokounmpo</apellidos>
+        <equipo>
+            <ciudad>Milwaukee</ciudad>
+            <presidente>
+                <nombrePresidente>Peter</nombrePresidente>
+                <apellidosPresidente>Feigin</apellidosPresidente>
+            </presidente>
+        </equipo>
+        <edad>29</edad>
+    </jugador>
+</jugadores>
